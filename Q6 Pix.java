@@ -1,6 +1,6 @@
 public class Pix extends MetodoPagamento {
     public Pix() {
-        super(0); // Sem taxa
+        super(0); 
     }
 
     @Override
